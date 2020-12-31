@@ -1,0 +1,9 @@
+using System;
+
+
+public Class Demo{
+    public void Add(){
+    int a=1,b=9,add=0;
+    add=a+b;
+    }
+}
